@@ -44,4 +44,4 @@ Summa Cum Laude, 3.98 GPA, Dean's List
 
 </details>
 
-<sub>On the side: **Agent Office**: your Claude Code sessions as little people in a 3D room. Open source soon.</sub>
+<sub>On the side: **[Agent Office](https://github.com/hieuv0711/cozy-agent-office-claude)**: your Claude Code sessions as little people in a 3D room. Open source, on npm and the VS Code Marketplace.</sub>
